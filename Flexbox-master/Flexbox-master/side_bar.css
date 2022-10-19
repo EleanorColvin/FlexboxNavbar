@@ -1,0 +1,18 @@
+body{
+  margin: 0px;
+}
+
+.sidebar {
+  display: flex;
+  width: 150px;
+  background-color: lightgrey;
+  height: 100vh;
+  padding-left: 10px;
+  flex-direction: column;
+  justify-content: space-between
+}
+
+.item {
+  font-weight: bold;
+  font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif ;
+}
